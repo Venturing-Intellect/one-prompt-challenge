@@ -45,7 +45,7 @@ Demo video: <link to your video>
 Then add all code files used, so interested parties can inspect the code.
 
 # Example entry
-Here is our humble entry: xxx
+Here is our humble entry: https://gist.github.com/joosep-wm/b53c6a6715c88013f55a5b10553ac3f2
 
 Can you make something more awesome?
 
