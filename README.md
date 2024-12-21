@@ -1,17 +1,20 @@
-# One prompt challenge 2025
+# One Prompt Challenge Winter 2025
 
 `It's not the size of your model that counts, it's how you use it`
 
-Participant has to create a working computer program from single prompt. Then run the application and demonstrate it's use. All this has to be recorded, so other can also see it.
-After demonstration, the code together with prompt and other details has to be submitted as Github gist. The entry with most Github stars wins!
+The participant has to create a working computer program from a single prompt. Then run the application and demonstrate its use. All this has to be recorded, so others can also see it. After demonstration, the code together with prompt and other details has to be submitted as Github Gist. The entry with the most Github stars wins!
 
-To submit entry to challenge send the link to github gist to social media with hashtag `#onepromptchallenge`.
-Our bots will pick this up and add to a unified database. Supported social media sites: Linkedin, Facebook and X.
+To submit entry to challenge post the link to github gist in social media with hashtag #onepromptchallenge. Our bots will pick this up and add it to a unified database. Supported social media sites: Linkedin, Facebook and X.
 
-Current challenge will end at the end of Q1 2025. We'll collect results at April 1st 00:00 UTC time.
-Winners will gain fame and glory as the champions of first every one prompt challenge!
+The current challenge will end at the end of Q1 2025. We'll collect results at April 1st 00:00 UTC time. Winners will gain fame and glory as the champions of first every one prompt challenge!
 
 Winners will be announced here and also in Venturing Intellect YouTube channel.
+
+# Viewing participants
+Search for the hashhag `#onepromptchallenge` from social media. Here are links that do exactly that:
+* Linkedin: https://www.linkedin.com/feed/hashtag/?keywords=onepromptchallenge
+* Facebook: https://www.facebook.com/hashtag/onepromptchallenge
+* X: https://x.com/search?q=%23onepromptchallenge
 
 # Recommendations
 
