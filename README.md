@@ -71,4 +71,4 @@ Can you make something more awesome?
   **A:** We want to promote AI coding tools. This format helps for good ideas to reproduce in people's minds.
 
 * **Q: How can I learn better prompting?**  
-  **A:** Check out this e-book: [AI Coding For Beginners (Winter 2025 Edition)](https://...)
+  **A:** Check out this e-book: [AI Coding For Beginners (Winter 2025 Edition)](https://www.amazon.com/dp/B0DRZ39RTD)
