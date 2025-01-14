@@ -51,6 +51,9 @@ Demo video: <link to your video>
 
 # AI used
 <ai model> - <date of use>
+
+# One prompt challenge page
+https://github.com/Venturing-Intellect/one-prompt-challenge
 ```
 
 Then add all code files used, so interested parties can inspect the code.
@@ -68,7 +71,7 @@ Can you make something more awesome?
 
 # Q&A
 * **Q: Why are you doing this?**  
-  **A:** We want to promote AI coding tools. This format helps for good ideas to reproduce in people's minds.
+  **A:** We want to promote AI coding tools. This format helps good ideas (prompts) to be shared between people. Also, it's a good way to introduce new tools to people in a fun way.
 
 * **Q: How can I learn better prompting?**  
   **A:** Check out this e-book: [AI Coding For Beginners (Winter 2025 Edition)](https://www.amazon.com/dp/B0DRZ39RTD)
