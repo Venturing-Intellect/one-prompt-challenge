@@ -30,7 +30,7 @@ We wrote a concise e-book just for you!
 
 **AI Coding For Beginners (Winter 2025 Edition)** - `A Learner’s Guide to Programming with AI, Review of the Latest Tools, and Hands-On Projects`
 
-Check it out here: https://....
+Check it out here: [Amazon link](https://www.amazon.com/dp/B0DRZ39RTD)
 
 ## Creating a Gist
 Go to https://gist.github.com (needs a GitHub account)
@@ -60,6 +60,7 @@ Then add all code files used, so interested parties can inspect the code.
 
 # Example Entry
 Here is our humble entry: https://gist.github.com/joosep-wm/b53c6a6715c88013f55a5b10553ac3f2
+Another entry: https://gist.github.com/joosep-wm/9f1e86264a21eae6887b7e4c39f8d69f
 
 Can you make something more awesome?
 
